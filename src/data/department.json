@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "deptName": "Business Development"
+  },
+  {
+    "id": 2,
+    "deptName": "Commercial"
+  },
+  {
+    "id": 3,
+    "deptName": "Coporate Communications"
+  },
+  {
+    "id": 4,
+    "deptName": "Corporate Finance"
+  },
+  {
+    "id": 5,
+    "deptName": "Customer Success"
+  },
+  {
+    "id": 6,
+    "deptName": "Cybersecurity and Infrastructure"
+  },
+  {
+    "id": 7,
+    "deptName": "Data and Technology"
+  },
+  {
+    "id": 8,
+    "deptName": "Decarbonisation"
+  },
+  {
+    "id": 9,
+    "deptName": "Digital"
+  },
+  {
+    "id": 10,
+    "deptName": "Finance"
+  },
+  {
+    "id": 11,
+    "deptName": "Finance Shared Services"
+  },
+  {
+    "id": 46,
+    "deptName": "Finlays"
+  },
+  {
+    "id": 12,
+    "deptName": "Fleet and Projects Finance"
+  },
+  {
+    "id": 13,
+    "deptName": "Fleet Efficiency"
+  },
+  {
+    "id": 14,
+    "deptName": "Fleet Services"
+  },
+  {
+    "id": 15,
+    "deptName": "Insurance"
+  },
+  {
+    "id": 16,
+    "deptName": "Integrated Logistics"
+  },
+  {
+    "id": 17,
+    "deptName": "Intelligent Automation"
+  },
+  {
+    "id": 18,
+    "deptName": "Legal"
+  },
+  {
+    "id": 19,
+    "deptName": "Logistics"
+  },
+  {
+    "id": 20,
+    "deptName": "Management and Admin (COO)"
+  },
+  {
+    "id": 21,
+    "deptName": "Management and Admin (ELT)"
+  },
+  {
+    "id": 22,
+    "deptName": "Network/Operations"
+  },
+  {
+    "id": 23,
+    "deptName": "Not Applicable"
+  },
+  {
+    "id": 24,
+    "deptName": "Others"
+  },
+  {
+    "id": 25,
+    "deptName": "People"
+  },
+  {
+    "id": 26,
+    "deptName": "People Shared Services"
+  },
+  {
+    "id": 27,
+    "deptName": "PMO"
+  },
+  {
+    "id": 28,
+    "deptName": "Procurement"
+  },
+  {
+    "id": 29,
+    "deptName": "Procurement Shared Services"
+  },
+  {
+    "id": 30,
+    "deptName": "Projects Chartering"
+  },
+  {
+    "id": 31,
+    "deptName": "Projects Commercial and Marketing"
+  },
+  {
+    "id": 32,
+    "deptName": "Projects Engineering"
+  },
+  {
+    "id": 33,
+    "deptName": "Projects Finance"
+  },
+  {
+    "id": 34,
+    "deptName": "Projects Operations"
+  },
+  {
+    "id": 35,
+    "deptName": "Projects QHSE"
+  },
+  {
+    "id": 36,
+    "deptName": "Safety and Manning"
+  },
+  {
+    "id": 37,
+    "deptName": "SDC Finance"
+  },
+  {
+    "id": 38,
+    "deptName": "Sustainability"
+  },
+  {
+    "id": 39,
+    "deptName": "Swire Shipping Singapore Agency"
+  },
+  {
+    "id": 40,
+    "deptName": "Tax"
+  },
+  {
+    "id": 41,
+    "deptName": "Technical"
+  },
+  {
+    "id": 42,
+    "deptName": "Tonnage"
+  },
+  {
+    "id": 43,
+    "deptName": "Trade Finance"
+  },
+  {
+    "id": 44,
+    "deptName": "Trades"
+  },
+  {
+    "id": 45,
+    "deptName": "Treasury"
+  }
+]

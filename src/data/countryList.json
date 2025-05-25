@@ -1,0 +1,171 @@
+[
+  {
+    "code": "IN",
+    "country": "India",
+    "city": [
+      {
+        "cityName": "Mumbai",
+        "address": "105, Mahinder Chambers 1st Floor, WT Patil Marg, Opp Pepsi Factory, Chembur, Maharashtra",
+        "zipCode": 400071
+      },
+      {
+        "cityName": "Bangalore",
+        "address": "Unit no.1002, 10th Floor, Campus 8B, Ecoworld, Bellandur",
+        "zipCode": 560103
+      },
+      {
+        "cityName": "Chennai",
+        "address": "Swire Digital Centre, Campus 3A, RMZ Millenia II, MGR Main Rd, Kandhanchavadi, Perungudi, Chennai, Tamil Nadu",
+        "zipCode": 600096
+      }
+    ]
+  },
+  {
+    "code": "SG",
+    "country": "Singapore",
+    "city": [
+      {
+        "cityName": "Singapore",
+        "address": "300 Beach Road #27-01, The Concourse",
+        "zipCode": 199555
+      }
+    ]
+  },
+  {
+    "code": "AU",
+    "country": "Australlia",
+    "city": [
+      {
+        "cityName": "Brisbane",
+        "address": "Level 2, 260 Queen Street, QLD",
+        "zipCode": 4000
+      },
+      {
+        "cityName": "Darwin",
+        "address": "Winnellie GPO Box 35807, NT",
+        "zipCode": "0821"
+      },
+      {
+        "cityName": "Melbourne",
+        "address": "Level 6, 607 Bourke Street, Melbourne, VIC",
+        "zipCode": 3000
+      },
+      {
+        "cityName": "Sydney",
+        "address": "Suite 1901 Level 19, 580 George Street, NSW",
+        "zipCode": 2000
+      },
+      {
+        "cityName": "Townsville",
+        "address": "Townsville, QLD",
+        "zipCode": ""
+      }
+    ]
+  },
+  {
+    "code": "NZ",
+    "country": "New Zealand",
+    "city": [
+      {
+        "cityName": "Auckland",
+        "address": "L19 Shortland & Fort Tower 88 Shortland Street",
+        "zipCode": 1010
+      },
+      {
+        "cityName": "Christchurch",
+        "address": "Lyttelton",
+        "zipCode": ""
+      },
+      {
+        "cityName": "Tauranga",
+        "address": "Level 2 138 Maunganui Road, Mt Maunganui",
+        "zipCode": 3116
+      }
+    ]
+  },
+  {
+    "code": "PG",
+    "country": "Papua New Guinea",
+    "city": [
+      {
+        "cityName": "Port Moresby",
+        "address": "GORDONS BUSINESS CENTRE, Building 5, Level 1, Unit 2, Hohola, National Capital District",
+        "zipCode": 121
+      },
+      {
+        "cityName": "Alotau",
+        "address": "PNG Ports, Charles Abel High Way, Milne Bay",
+        "zipCode": 211
+      },
+      {
+        "cityName": "Kavieng",
+        "address": "Wharf Road PO Box 293, New Ireland",
+        "zipCode": 631
+      },
+      {
+        "cityName": "Kimbe",
+        "address": "PO Box 765, West New Britain",
+        "zipCode": 621
+      },
+      {
+        "cityName": "Lae",
+        "address": "Consort Building Level 1, Milfordhaven Rd, Sect 23, Lot 7, Morobe",
+        "zipCode": 411
+      },
+      {
+        "cityName": "Madang",
+        "address": "PNG Ports, Main Wharf, Shed 1, End of Modilon Road, Madang",
+        "zipCode": 511
+      },
+      {
+        "cityName": "Oro Bay",
+        "address": "Oro Enterprise Building, Gasara Street, Sect: 52, Lot: 09, Popondetta, Oro",
+        "zipCode": 241
+      },
+      {
+        "cityName": "Rabaul",
+        "address": "Top Floor, Room #6, Jrh Commercial Centre, Williams Road, Kokopo, East New Britain",
+        "zipCode": 613
+      },
+      {
+        "cityName": "Wewak",
+        "address": "1st Floor Room 10 Moa Sen Office Complex, Section 501 Allotment 15 & 16 Valley Lane St B47, East Sepik",
+        "zipCode": 531
+      }
+    ]
+  },
+
+  {
+    "code": "AS",
+    "country": "American Samoa",
+    "city": [
+      {
+        "cityName": "Pago Pago",
+        "address": "Fagatogo Square #103",
+        "zipCode": 96799
+      }
+    ]
+  },
+  {
+    "code": "US",
+    "country": "United States",
+    "city": [
+      {
+        "cityName": "Puyallup",
+        "address": "1019 39th Avenue SE Suite 210, Puyallup, WA",
+        "zipCode": 98374
+      }
+    ]
+  },
+  {
+    "code": "NC",
+    "country": "New Caledonia",
+    "city": [
+      {
+        "cityName": "Noumea",
+        "address": "22, Avenue James Cook BP 97",
+        "zipCode": 98845
+      }
+    ]
+  }
+]

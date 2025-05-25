@@ -1,0 +1,58 @@
+[
+  {
+    "taskID": 1,
+    "taskName": "Active Directory",
+    "taskDescription": "Copy the Account details of the user to AD",
+    "isComplete": false,
+    "addApp": true
+  },
+  {
+    "taskID": 8,
+    "taskName": "O365",
+    "taskDescription": "Copy the code to powershell. Please make sure that licenses are already assigned before running the script. And you should manually add the distribution list email on Add-DistributionGroupMember",
+    "isComplete": false,
+    "addApp": true
+  },
+  {
+    "taskID": 2,
+    "taskName": "Zendesk",
+    "taskDescription": "Send the request to Teams Group 'Zendesk Account Creation'",
+    "isComplete": false,
+    "addApp": true
+  },
+  {
+    "taskID": 7,
+    "taskName": "Local IT",
+    "taskDescription": "Duplicate your ticket, edit and add \"-Local IT Set up\" on the Subject. Copy the Email, ADID, and password to your dashlane > Secure Notes > and share it to the local IT. Paste note on the Local IT ticket that credentials has been shared via dashlane",
+    "isComplete": false,
+    "addApp": true
+  },
+  {
+    "taskID": 3,
+    "taskName": "SDP",
+    "taskDescription": "Send the request to the Teams GC",
+    "isComplete": false,
+    "addApp": true
+  },
+  {
+    "taskID": 4,
+    "taskName": "SwireConnect",
+    "taskDescription": "Ask HRBP if PPF Form has been submitted to People Operations mailbox. Include people.operations@swireshipping.com on the CC",
+    "isComplete": false,
+    "addApp": true
+  },
+  {
+    "taskID": 5,
+    "taskName": "Coruson",
+    "taskDescription": "Duplicate your ticket, edit and add '- Coruson Account Creation' on the subject and assign the ticket and send the account details to Jaya",
+    "isComplete": false,
+    "addApp": true
+  },
+  {
+    "taskID": 6,
+    "taskName": "K2",
+    "taskDescription": "Duplicate your ticket, edit and add '- K2 Account Creation' on the subject and assign the ticket to group Automation Intelligent Team. Send the account details to k2_itdigital@swiredigital.com. Note that you need to manually add the copy user",
+    "isComplete": false,
+    "addApp": true
+  }
+]
