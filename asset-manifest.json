@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/newjoinerv2/static/css/main.ffd04702.css",
-    "main.js": "/newjoinerv2/static/js/main.f3138fa5.js",
+    "main.js": "/newjoinerv2/static/js/main.945e3b50.js",
     "index.html": "/newjoinerv2/index.html",
     "main.ffd04702.css.map": "/newjoinerv2/static/css/main.ffd04702.css.map",
-    "main.f3138fa5.js.map": "/newjoinerv2/static/js/main.f3138fa5.js.map"
+    "main.945e3b50.js.map": "/newjoinerv2/static/js/main.945e3b50.js.map"
   },
   "entrypoints": [
     "static/css/main.ffd04702.css",
-    "static/js/main.f3138fa5.js"
+    "static/js/main.945e3b50.js"
   ]
 }
