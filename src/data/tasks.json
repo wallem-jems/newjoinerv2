@@ -37,7 +37,7 @@
   {
     "taskID": 4,
     "taskName": "SwireConnect",
-    "taskDescription": "Ask HRBP if PPF Form has been submitted to People Operations mailbox. Include people.operations@swireshipping.com on the CC",
+    "taskDescription": "Ask HRBP if PPF Form has been submitted to People Operations mailbox. Include People Operations email on the CC",
     "isComplete": false,
     "addApp": true
   },
