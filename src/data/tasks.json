@@ -51,7 +51,7 @@
   {
     "taskID": 6,
     "taskName": "K2",
-    "taskDescription": "Duplicate your ticket, edit and add '- K2 Account Creation' on the subject and assign the ticket to group Automation Intelligent Team. Send the account details to k2_itdigital@swiredigital.com. Note that you need to manually add the copy user",
+    "taskDescription": "Duplicate your ticket, edit and add '- K2 Account Creation' on the subject and assign the ticket to group Automation Intelligent Team. Send the account details to K2 Email address. Note that you need to manually add the copy user",
     "isComplete": false,
     "addApp": true
   }
