@@ -168,6 +168,10 @@
     "deptName": "Technical"
   },
   {
+    "id": 46,
+    "deptName": "Technology"
+  },
+  {
     "id": 42,
     "deptName": "Tonnage"
   },
@@ -182,9 +186,5 @@
   {
     "id": 45,
     "deptName": "Treasury"
-  },
-  {
-    "id": 46,
-    "deptName": "Technology"
   }
 ]
